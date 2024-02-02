@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "829355920589",
+    "firebase_url": "https://registrationform-36e69-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "registrationform-36e69",
+    "storage_bucket": "registrationform-36e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829355920589:android:6a1d3be8c704063b376d84",
+        "android_client_info": {
+          "package_name": "com.RegisForm.registrationform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgWxml1CFhc6CeqF6WnVigPrJxFGTT-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
